@@ -14,7 +14,7 @@ This is a FastAPI application demonstrating various features such as asyncio, mu
 
     ```bash
     git clone https://github.com/Timmy-Edibo/ajmal.git
-    cd fastapi-app
+    cd ajmal
     ```
 
 2. Create a virtual environment:
