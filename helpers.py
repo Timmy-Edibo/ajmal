@@ -50,7 +50,7 @@ def write_lines_using_threads_func():
 def write_lines_batched_func():
     start_time = time.time()
 
-    contents = [generate_content(i) for i in range(1, 20)]
+    contents = [generate_content(i) for i in range(1, 1000)]
     chunk_size = 1000
 
     for i in range(0, len(contents), chunk_size):
